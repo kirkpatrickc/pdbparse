@@ -1563,3 +1563,5 @@ int main(int argc, char **argv) {
     if(out) puts(buf);
     return !!out;
 }
+
+void init_undname() {}
